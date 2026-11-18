@@ -1,0 +1,90 @@
+{
+  "photos": [
+    {
+      "file": "alps-jan-kohl.jpg",
+      "shot": "wide",
+      "mood": "dawn, calm, ambition, a new start, momentum building",
+      "use_for": "growth, adoption rising, looking ahead",
+      "text_space": "top 60% open sky",
+      "treatment": "P1",
+      "credit": "Jan Kohl / Unsplash",
+      "unsplash_id": "3fFH-3fEaD4",
+      "unsplash_page": "https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-night-time-3fFH-3fEaD4",
+      "used": [
+        "2026-11-17 ai-plans"
+      ]
+    },
+    {
+      "file": "misty-lake-breilin.jpg",
+      "shot": "wide",
+      "mood": "clarity, stillness, fog lifting",
+      "use_for": "clarity, seeing your numbers, less noise, simplifying",
+      "text_space": "top 35% sky",
+      "treatment": "P1",
+      "credit": "Sami Matias Breilin / Unsplash",
+      "unsplash_id": "Wtgfn5grR3M",
+      "unsplash_page": "https://unsplash.com/photos/white-clouds-over-the-lake-Wtgfn5grR3M",
+      "used": []
+    },
+    {
+      "file": "leaf-raindrops-almasi.jpg",
+      "shot": "close-up",
+      "mood": "precision, detail, small things matter",
+      "use_for": "errors and accuracy, small fixes with big impact, billing/data quality",
+      "text_space": "top 25% and bottom 30% dark green",
+      "treatment": "P1 or P2 ink",
+      "credit": "Hasan Almasi / Unsplash",
+      "unsplash_id": "CfimHDZtG3o",
+      "unsplash_page": "https://unsplash.com/photos/water-droplets-on-green-leaf-CfimHDZtG3o",
+      "used": []
+    },
+    {
+      "file": "river-aerial-mckenzie.jpg",
+      "shot": "aerial",
+      "mood": "flow, connection, systems working together",
+      "use_for": "workflows, tools connected, automation, data flowing",
+      "text_space": "busy: use P2 duotone or P3 window",
+      "treatment": "P2 blue",
+      "credit": "Tristan McKenzie / Unsplash",
+      "unsplash_id": "JZ7D9NsEO5I",
+      "unsplash_page": "https://unsplash.com/photos/trees-in-forest-JZ7D9NsEO5I",
+      "used": []
+    },
+    {
+      "file": "prairie-barn-tandemx.jpg",
+      "shot": "wide",
+      "mood": "prairie, small business, roots, golden hour",
+      "use_for": "small and local business, Alberta/prairie owners, trades, family business",
+      "text_space": "top 40% sky",
+      "treatment": "P1",
+      "credit": "Tandem X Visuals / Unsplash",
+      "unsplash_id": "IaXHYaZWv6c",
+      "unsplash_page": "https://unsplash.com/photos/red-and-gray-barn-on-green-grass-field-during-sunset-IaXHYaZWv6c",
+      "used": []
+    },
+    {
+      "file": "snow-pines-infernus.jpg",
+      "shot": "neutral",
+      "mood": "quiet, winter, focus, resilience",
+      "use_for": "slow season, year-end planning, steady systems, calm operations",
+      "text_space": "top 35% white sky (use dark ink text)",
+      "treatment": "P1 with ink text",
+      "credit": "Adrian Infernus / Unsplash",
+      "unsplash_id": "nxk_z0g23ns",
+      "unsplash_page": "https://unsplash.com/photos/snow-covered-pine-trees-during-daytime-nxk_z0g23ns",
+      "used": []
+    },
+    {
+      "file": "waterfall-anderson.jpg",
+      "shot": "neutral",
+      "mood": "volume, speed, constant flow",
+      "use_for": "workload, inbox overload, things moving fast, time saved",
+      "text_space": "busy: use P2 duotone or P3 window",
+      "treatment": "P2 orange or ink",
+      "credit": "Nathan Anderson / Unsplash",
+      "unsplash_id": "abveQd-CAPw",
+      "unsplash_page": "https://unsplash.com/photos/waterfalls-during-daytime-abveQd-CAPw",
+      "used": []
+    }
+  ]
+}
